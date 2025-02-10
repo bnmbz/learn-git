@@ -19,3 +19,8 @@
 * **git push -u origin main**
 * **git config credential.helper cache --timeout=100000**
 * **git rm --cached** 'filename'
+
+# Generating an ssh key
+
+* **ssh-keygen -t rsa -b 4096 -C 'michaelboateng064@gmail.com'**
+* **ssh-add ~/.ssh/id_rsa**
