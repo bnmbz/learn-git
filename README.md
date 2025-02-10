@@ -24,3 +24,10 @@
 
 * **ssh-keygen -t rsa -b 4096 -C 'michaelboateng064@gmail.com'**
 * **ssh-add ~/.ssh/id_rsa**
+
+# Git branching
+* **git branch**
+* **git checkout <branchName>**
+* **git checkout -b <branchName>**
+* **git diff <branchName>**
+* **git merge <branchName>**
